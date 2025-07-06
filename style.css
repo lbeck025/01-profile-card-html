@@ -1,0 +1,39 @@
+body {
+  /* Set the background color of the whole page */
+  background-color: lightblue;
+  /* Center all text horizontally */
+  text-align: center;
+  /* Use a clean, modern sans-serif font for the page */
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+}
+
+.card {
+  /* Set the card background to white */
+  background: #fff;
+  /* Add a subtle blue border around the card */
+  border: 2px solid #b0c4de;
+  /* Slightly round the corners of the card */
+  border-radius: 12px;
+  /* Add space inside the card for content */
+  padding: 32px 24px;
+  /* Limit the card's width for a compact look */
+  max-width: 350px;
+  /* Center the card horizontally and add space above/below */
+  margin: 40px auto;
+  /* Add a soft shadow for a lifted effect */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+h1 {
+  /* Make the main heading large */
+  font-size: 40px;
+  /* Set the heading color to dark blue */
+  color: darkblue;
+}
+
+h2 {
+  /* Make the subheading slightly smaller than h1 */
+  font-size: 25px;
+  /* Set the subheading color to dark blue */
+  color: darkblue;
+}
